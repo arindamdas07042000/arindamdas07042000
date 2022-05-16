@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arindamdas07042000
+- 👋 Hi, I’m Arindam
 - 👀 I’m interested in .Computer Programming and internet of things..
 - 🌱 I’m currently learning .programming languages..
 - 💞️ I’m looking to collaborate on ...
