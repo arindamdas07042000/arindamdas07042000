@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Arindam
-- 👀 I’m interested in .Computer Programming and internet of things..
-- 🌱 I’m currently learning .programming languages..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .email adas24@myseneca.ca..
+- 👀 I’m interested in Computer Programming and internet of things.
+- 🌱 I’m currently learning programming languages.
+- 📫 Email at adas24@myseneca.ca to reach me.
 
 <!---
 arindamdas07042000/arindamdas07042000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
